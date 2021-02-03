@@ -1,12 +1,12 @@
-## Empty Example for P5.js
-#### by Scott Kildall
+## Simple Shapes on P5.js
+#### by Dana Capistano
 
 
 
 ### Overview
-This is a modified version of the p5.js Empty Example that simplifies the directory structure
+Simple Shapes for p5.js Interaction Design
 
 
 ### Technical Details
 
-Modify the sketch.js setup() and draw() functions and begin adding functions!
+Change to background to any color other than white, e.g. background(0); in the draw() loop.
